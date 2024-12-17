@@ -1,7 +1,7 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
 	"hello_world": "Hallo, {name} wie geht es dir heute?",
-	"hero_title": "Health Tequity Paraglide Sprachbeispiel",
+	"hero_title": "Paraglide Sprachbeispiel",
 	"hero_text": "Schauen Sie sich all die coolen Daten auf diesem Tablet an",
 	"user_name": "Wie heißen Sie?",
 	"card_text": "Dies ist ein sehr einfaches Beispiel für die Paraglide-Textübersetzungsfunktion in Svelte 5."

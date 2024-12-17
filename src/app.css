@@ -50,8 +50,17 @@ body {
 	border: 1px solid var(--accent-1);
 	border-radius: var(--radius-2);
 	color: var(--text-1);
-	background-color: var(--surface-1);
+	background-color: var(--text-2);
 	padding: 12px 32px;
 	touch-action: manipulation;
-	transition: all 250ms var(--timing-function-slow-ease);
+	transition: all 2500ms var(--timing-function-slow-ease);
+}
+
+.button:hover {
+	background-color: var(--accent-1);
+}
+
+.title {
+	color: var(--accent-1);
+	place-self: center stretch;
 }

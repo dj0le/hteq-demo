@@ -1,7 +1,7 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
 	"hello_world": "Zdravo, {name}, kako si danas?",
-	"hero_title": "Health Tequity Paraglide Primjer Jezika",
+	"hero_title": "Paraglide Primjer Jezika",
 	"hero_text": "Pogledajte sve super podatke na ovom tabletu",
 	"user_name": "kako se zoveš?",
 	"card_text": "Ovo je vrlo osnovni primjer funkcije prevođenja teksta paraglajderom u Svelte 5."
